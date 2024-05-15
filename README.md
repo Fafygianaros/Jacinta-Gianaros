@@ -1,5 +1,5 @@
 # Jacinta-Gianaros
-Benvindo ao meu perfil.
+**Benvindo ao meu perfil** :👩‍🏫
 Meu nome é Jacinta de Fátima Gianaros
 Sou professora de Tecnologia e Robótica na E.E. Buenos Aires, para as turmas de E1 e EA
 Estou estudando na Alura, para ministrar melhor minhas aulas
